@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');
+
+div p{
+    color: blue;
+    font-size: 27px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+li{
+    margin-bottom: 4px;
+    color: lime;
+    font-size: 21px;
+}
+img{
+    margin-bottom: 11px;
+}
